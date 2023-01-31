@@ -1,0 +1,18 @@
+MiniScale Release 17
+
+v1.0 (10th November 2014)
+
+CONTENT CHANGES:
+
+Places names have been checked against the 50k gazetteer. Additional town names added.
+
+Roads updated to November 2014.
+
+SPECIFICATION CHANGES:
+
+Road colours have been muted slightly. Other town names now a dark grey. Railway lines now very dark grey.
+
+
+FORMAT CHANGES:
+
+None
